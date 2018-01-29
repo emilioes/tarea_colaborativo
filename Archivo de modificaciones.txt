@@ -1,3 +1,10 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Emilio Espinosa Sanchez."
+
+"Sergio Palafo Pucheta."
+
+El repositorio remoto actualizado se puede encontrar en las URL's
+
+https://github.com/emilioes/tarea_colaborativo
+https://github.com/serjpalafox/tarea_colaborativo
